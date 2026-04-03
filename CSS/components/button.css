@@ -1,0 +1,9 @@
+.btn-web {
+	background-color: #040406;
+	padding: 10px 15px;
+	border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	margin: 10px;
+}
